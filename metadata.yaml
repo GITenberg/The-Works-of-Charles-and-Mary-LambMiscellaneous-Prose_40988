@@ -30,6 +30,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/E._V._Lucas
 description: 'Vol. 1: Miscellaneous prose ; Elia ; Last essays of Elia. Vol. 2: Tales
   for children ; Poetry for children ; Poems ; Dramatic works.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40988#The-Works-of-Charles-and-Mary-LambMiscellaneous-Prose
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
